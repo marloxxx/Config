@@ -1,3 +1,3 @@
 # Config
 
-trojan://SPYFTNWOKPTirgxg5eBHSA@165.22.96.54:2083?security=tls&type=ws&sni=ddff1dd8f7181997.metric.gstatic.com#%F0%9F%9A%80+Marz+%28horas%29+%5BTrojan+-+ws%5D
+vmess://eyJhZGQiOiJ2cG42NzM0dGd0LmRpZW5ha2luYWphLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidnBuNjczNHRndC5kaWVuYWtpbmFqYS5iaXouaWQiLCJpZCI6ImM4OTAyMmJmLTAwNWItNDg5Mi1hZTc0LTIwMjUzZTgzNGQyYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiaG9yYXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9
